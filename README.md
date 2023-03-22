@@ -18,5 +18,24 @@ The objective of this project was to determine the optimal machine learning algo
 !git clone https://github.com/ImBharatkumar/Car_class-and-Car_price-prediction-with-Machine-Learning
 
 ## install required libraries
-pip install -r requirements.txt
 
+## Data
+1)Car price dataset contains information about cars such as make, model, year, engine type, horsepower, and others. 
+2) Car class dataset contains information about car such as Compactness, Circularity, Circularityscaled variance along major axis ,scaled variance along minor axis,scaled radius of gyration,skewness about major axis, skewness about minor axis etc.
+
+### The dataset is split into a training set and a test set. The training set is used to train the different algorithms, while the test set is used to evaluate the performance of the algorithms.
+
+## Algorithms
+The project uses the following machine learning algorithms to predict the price and classify the cars:
+
+#### Linear Regression
+#### Lasso Regression
+#### Ridge Regression
+#### Decision Tree
+#### Random Forest
+#### Gradient Boosting
+#### Support Vector Machines
+
+
+## Evaluation:
+The performance of each algorithm is evaluated using the mean squared error (MSE),F1-Score, the accuracy score and plotting the confusion matrix. The MSE measures the average squared difference between the predicted and actual prices, while the accuracy score measures the percentage of correctly classified cars.
