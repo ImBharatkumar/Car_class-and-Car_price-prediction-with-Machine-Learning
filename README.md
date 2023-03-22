@@ -15,7 +15,7 @@ The objective of this project was to determine the optimal machine learning algo
 ## Evaluation
 
 ## installation:
-!git clone https://github.com/ImBharatkumar/Car_class-and-Car_price-prediction-with-Machine-Learning
+git clone https://github.com/ImBharatkumar/Car_class-and-Car_price-prediction-with-Machine-Learning
 
 ## install required libraries
 
